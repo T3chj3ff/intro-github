@@ -1,3 +1,18 @@
+<!-- gabanode-archive-notice:v1 -->
+> [!IMPORTANT]
+> **Repository archived — 2026-08-01**
+>
+> This repository is preserved as read-only history and is no longer an active source of truth.
+>
+> Canonical successor: None  
+> Reason: Completed GitHub tutorial repository with no active portfolio role.  
+> Preservation: Git history and repository metadata were captured and verified during GABAnode GitHub consolidation Wave 0.
+>
+> Do not start new work here. Use the canonical successor when one is named above.
+---
+
+## Historical README
+
 <!-- 
   <<< Author notes: Header of the course >>> 
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
